@@ -2,7 +2,7 @@
 
 An AI-powered computer vision system that analyzes facial aesthetics and predicts a rating on a 1.0-5.0 scale. Built with PyTorch, utilizing a fine-tuned ResNet18 architecture and Grad-CAM for visual explainability.
 
-**Try the App:** [Link to your Hugging Face Space]
+**Try the App:** https://akmessi-aesthetix.hf.space
 
 ## Overview
 
